@@ -10,7 +10,7 @@ html {
 
 body {
   background-color: #dbd6cf;
-  margin: 0px;
+  margin: .3em;
 }
 
 header {
@@ -27,7 +27,7 @@ h1 {
 nav li {
   background-color: #713837;
   border-radius: 5px;
-  padding: .5em .75em;
+  padding: .5em;
   display: inline-block;
 }
 
@@ -38,6 +38,7 @@ nav li:hover {
 nav a {
   color: #fff;
   text-decoration: none;
+  list-style-type: none;
 }
 
 nav {
