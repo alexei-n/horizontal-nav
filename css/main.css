@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: sans-serif,'Bevan';
+  font-family: sans-serif, "Bevan";
   line-height: 1.5;
 }
 
@@ -13,13 +13,14 @@ header {
 }
 
 h1 {
-  font-family: 'Bevan';
+  font-family: "Bevan";
   color: #fff;
 }
 
-span {
+ul {
   background-color: #713837;
   color: #fff;
   border-radius: 5px;
-  display: inline-block
+  padding: .5em .75em;
+  display: inline-block;
 }
