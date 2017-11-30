@@ -8,16 +8,18 @@ html {
   box-sizing: inherit;
 }
 
+header {
+    background-color: #79756f;
+}
+
 h1 {
   font-family: 'Bevan';
-  background-color: #79756f;
   color: #fff;
 }
 
-h2 {
+span {
   background-color: #713837;
   color: #fff;
   border-radius: 5px;
-  padding: .6em;
-  width: 30%;
+  display: inline-block
 }
