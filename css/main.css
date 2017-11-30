@@ -19,12 +19,25 @@ header {
 h1 {
   font-family: Bevan;
   color: #fff;
+  text-align: center;
 }
 
-ul {
+nav ul {
   background-color: #713837;
-  color: #fff;
   border-radius: 5px;
   padding: .5em .75em;
   display: inline-block;
+}
+
+nav a {
+    color: #fff;
+}
+
+nav ul:hover {
+  background-color: #f33;
+}
+
+nav {
+  text-align:center;
+  color: #fff;
 }
