@@ -4,7 +4,7 @@ html {
   line-height: 1.5;
 }
 
-*,*::before, *::after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
@@ -13,7 +13,8 @@ body {
 }
 
 header {
-    background-color: #79756f;
+  background-color: #79756f;
+  border: 3px solid #595652;
 }
 
 h1 {
@@ -22,7 +23,7 @@ h1 {
   text-align: center;
 }
 
-nav ul {
+nav li {
   background-color: #713837;
   border-radius: 5px;
   padding: .5em .75em;
@@ -30,14 +31,14 @@ nav ul {
 }
 
 nav a {
-    color: #fff;
+  color: #fff;
 }
 
-nav ul:hover {
+nav a:hover {
   background-color: #f33;
 }
 
 nav {
-  text-align:center;
+  text-align: center;
   color: #fff;
 }
