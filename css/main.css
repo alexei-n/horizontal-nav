@@ -20,7 +20,7 @@ header {
 }
 
 h1 {
-  font-family: Bevan;
+  font-family: 'Bevan', cursive;
   color: #fff;
   text-align: center;
   margin: .3em;
@@ -52,7 +52,7 @@ nav {
 
 nav ul{
   padding:0;
-  margin: ..75em;
+  margin: .75em;
   padding-left: 40px;
 
 }
