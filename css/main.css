@@ -22,12 +22,14 @@ h1 {
   font-family: Bevan;
   color: #fff;
   text-align: center;
+  margin: .3em;
 }
 
 nav li {
   background-color: #713837;
   border-radius: 5px;
   padding: .5em;
+  margin-top: .1em;
   display: inline-block;
 }
 
