@@ -28,11 +28,9 @@ h1 {
 
 nav li {
   display: inline;
-
-
 }
 
-nav li:hover {
+nav a:hover {
   background-color: #f33;
 }
 
@@ -52,4 +50,8 @@ nav a {
 nav {
   color: #fff;
   text-align: center;
+}
+
+ul {
+  margin-left:-10px;
 }
